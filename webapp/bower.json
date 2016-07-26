@@ -1,0 +1,23 @@
+{
+  "name": "box",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Luca Marchesini <xbill82@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "kuzzle-sdk": "^1.9.2",
+    "socket-io": "^1.0.0",
+    "socket-io-client": "^1.4.5"
+  }
+}
